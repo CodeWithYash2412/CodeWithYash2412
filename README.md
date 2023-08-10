@@ -16,7 +16,7 @@
 <a href="https://twitter.com/2saradva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="2saradva" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-saradva-559046210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-saradva-559046210/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22321754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22321754" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/yash_saradva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yash_saradva" height="30" width="40" /></a>
+<a href="https://instagram.com/yash_saradva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yash_saradva" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/yashsaradva0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yashsaradva0" height="30" width="40" /></a>
 </p>
 
